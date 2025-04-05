@@ -13,12 +13,5 @@
 <br>
 <img src="
 <br>
-
-
-
-
-
-
-
 <h5>Desenvolvi ambos projetos através do curso de programação DevClub</h5>
 
