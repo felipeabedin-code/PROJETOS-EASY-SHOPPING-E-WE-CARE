@@ -11,14 +11,7 @@
 <br>
 <h1>PROJETO WE CARE</h1>
 <br>
-<img src="
+<img src="https://github.com/felipeabedin-code/PROJETOS-EASY-SHOPPING-E-WE-CARE/blob/master/Imagem5.jpg?raw=true">
 <br>
-
-
-
-
-
-
-
-<h5>Desenvolvi ambos projetos através do curso de programação DevClub</h5>
+<h3>Desenvolvi ambos projetos através do curso de programação DevClub</h3>
 
