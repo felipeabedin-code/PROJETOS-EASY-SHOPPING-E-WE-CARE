@@ -1,6 +1,6 @@
 <h1>PROJETO EASY SHOPPING</h1>
 <br>
-<img src="https://github.com/felipeabedin-code/PROJETOS-EASY-SHOPPING-E-WE-CARE/blob/master/img/EASY%20SHOPPING%20DESKTOP%20NEW.jpg?raw=true>
+<img src="https://github.com/felipeabedin-code/PROJETOS-EASY-SHOPPING-E-WE-CARE/blob/master/img/EASY%20SHOPPING%20DESKTOP%20NEW.jpg?raw=true">
 <br>
 <br>
 <img src="
